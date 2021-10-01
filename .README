@@ -1,0 +1,7 @@
+from root to run server:
+npm install
+node index.js
+
+from /client to run client:
+npm install
+npm run start
